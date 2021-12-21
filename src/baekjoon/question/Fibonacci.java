@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.question;
 
 public class Fibonacci {
 	
